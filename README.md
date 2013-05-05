@@ -1,4 +1,4 @@
-[Click to Download Now](http://cdn.granicuslabs.com/download/SIREDocumentImporter.zip "Download Now")
+[Click to Download Now](http://cdn.granicuslabs.com/downloads/SIREDocumentImporter.zip "Download Now")
 =============
 
 SIRE Document Importer
